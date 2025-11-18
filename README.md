@@ -103,12 +103,4 @@ ReelMe enables users and creators to share real, spontaneous moments without the
 
 ---
 
-## 📡 Sample API
-```json
-POST /api/story/upload
-{
-  "user_id": "xyz123",
-  "media_url": "s3://story.jpg",
-  "expiry": "24h",
-  "circle_id": "friends"
-}
+
