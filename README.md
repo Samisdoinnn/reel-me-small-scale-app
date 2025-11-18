@@ -17,13 +17,6 @@ ReelMe enables users and creators to share real, spontaneous moments without the
 
 ---
 
-## 👥 Target Audience
-- **Creators & Micro-Influencers (18–30)**  
-- **Gen Z social users (15–24)**  
-- **Creative communities & niche groups**
-
----
-
 ## ✨ Core Features (MVP)
 
 ### 📸 Camera & Quick Capture
@@ -68,8 +61,7 @@ ReelMe enables users and creators to share real, spontaneous moments without the
 ---
 
 ## 🆚 Competitive Positioning
-- **Snapchat:** Great AR → ReelMe improves creator tools  
-- **Instagram:** Great reach → ReelMe removes algorithm pressure  
+
 - **BeReal:** Authenticity → ReelMe adds engagement and privacy  
 
 ---
