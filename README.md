@@ -2,7 +2,7 @@
 # ReelMe  
 ### *Real moments, real control.*
 
-ReelMe is a camera-first social platform combining Snapchat-style spontaneity with Instagram-grade creator tools — designed for authenticity, privacy, and creative freedom.  
+ReelMe is a camera-first social platform combining style spontaneity with  creator tools — designed for authenticity, privacy, and creative freedom.  
 
 ---
 
