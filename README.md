@@ -83,8 +83,8 @@ ReelMe is a **camera-centric, privacy-focused social experience** that enables u
 | Platform  | Focus                  | ReelMe Advantage                      |
 | --------- | ---------------------- | ------------------------------------- |
 | BeReal    | Authenticity           | Adds privacy controls + creator tools |
-| Snapchat  | Friends only + filters | E2E encryption + data transparency    |
-| Instagram | Content permanence     | Low-pressure + selective audiences    |
+| sharechat | Friends only + filters | E2E encryption + data transparency    |
+| koo | Content permanence     | Low-pressure + selective audiences    |
 
 ---
 
